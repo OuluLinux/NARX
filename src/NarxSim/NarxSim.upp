@@ -1,0 +1,16 @@
+uses
+	CtrlLib,
+	NARX;
+
+file
+	COPYING,
+	main.cpp,
+	NarxSim.h,
+	NarxSim.cpp,
+	NarxSim.iml,
+	NarxSim.lay;
+
+mainconfig
+	"" = "GUI MT",
+	"" = "GUI MT NOGTK";
+
